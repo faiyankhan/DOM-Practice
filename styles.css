@@ -27,3 +27,14 @@
     font-weight: bold;
     color: #0099cc;
 }
+
+.btn-result{
+    padding: 8px;
+    width: 70px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: #007399;
+    font-weight: bold;
+    cursor: pointer;
+}
