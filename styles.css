@@ -38,3 +38,10 @@
     font-weight: bold;
     cursor: pointer;
 }
+
+.btn-result:hover{
+    border-radius: 20px;
+    transition: 0.8s;
+    color: black;
+    background-color: #66d9ff;
+}
