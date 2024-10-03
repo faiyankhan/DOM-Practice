@@ -28,6 +28,11 @@
     color: #0099cc;
 }
 
+.btn-container{
+    display: flex;
+    justify-content: space-around;
+}
+
 .btn-result{
     padding: 8px;
     width: 70px;
