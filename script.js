@@ -4,5 +4,6 @@ function add() {
 
     const sum = parseInt(inputElement1.value) + parseInt(inputElement2.value);
 
-    
+    const resultElement = document.getElementById('result');
+    resultElement.innerText = `Result :${sum}`;
 } 
