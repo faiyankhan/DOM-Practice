@@ -7,3 +7,8 @@ function add() {
     const resultElement = document.getElementById('result');
     resultElement.innerText = `Result :${sum}`;
 } 
+
+function clearInput(){
+    const inputElement1 = document.getElementById('num1');
+    inputElement1.value = '';
+}
