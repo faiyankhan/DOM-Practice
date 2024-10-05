@@ -11,4 +11,7 @@ function add() {
 function clearInput(){
     const inputElement1 = document.getElementById('num1');
     inputElement1.value = '';
+
+    const inputElement2 = document.getElementById('num2');
+    inputElement2.value = '';
 }
