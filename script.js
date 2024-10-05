@@ -1,4 +1,4 @@
-// Function for Adddition of Two Number
+// Function for Addition of Two Number
 
 function add() {
     const inputElement1 = document.getElementById('num1');
@@ -9,6 +9,14 @@ function add() {
     const resultElement = document.getElementById('result');
     resultElement.innerText = `Result :${sum}`;
 }
+
+// Function for Subtraction of Two Numbers
+
+   function sub() {
+    const inputElement1 = document.getElementById('num1');
+    const inputElement2 = document.getElementById('num2');
+
+   }
 
 // Function for Clearing the Input Boxes
 
