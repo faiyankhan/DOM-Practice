@@ -1,3 +1,5 @@
+// Function for Adddition of Two Number
+
 function add() {
     const inputElement1 = document.getElementById('num1');
     const inputElement2 = document.getElementById('num2');
@@ -6,9 +8,11 @@ function add() {
 
     const resultElement = document.getElementById('result');
     resultElement.innerText = `Result :${sum}`;
-} 
+}
 
-function clearInput(){
+// Function for Clearing the Input Boxes
+
+function clearInput() {
     const inputElement1 = document.getElementById('num1');
     inputElement1.value = '';
 
