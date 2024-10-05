@@ -14,4 +14,7 @@ function clearInput(){
 
     const inputElement2 = document.getElementById('num2');
     inputElement2.value = '';
+
+    const resultElement = document.getElementById('result');
+    resultElement.innerText = 'Result :';
 }
