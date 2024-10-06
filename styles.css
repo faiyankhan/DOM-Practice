@@ -52,3 +52,16 @@
     color: black;
     background-color: #66d9ff;
 }
+
+.clear-btn{
+    margin: 10px;
+    margin-left: 130px;
+    padding: 8px;
+    width: 90px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: #007399;
+    font-weight: bold;
+    cursor: pointer;
+}
