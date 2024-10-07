@@ -29,6 +29,9 @@ function multi() {
     const inputElement2 = document.getElementById('num2');
 
     const sub = parseInt(inputElement1.value) * parseInt(inputElement2.value);
+
+    const resultElement = document.getElementById('result');
+  
 }
 
 // Function for Clearing the Input Boxes
