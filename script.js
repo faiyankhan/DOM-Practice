@@ -12,7 +12,7 @@ function add() {
 
 // Function for Subtraction of Two Numbers
 
-   function sub() {
+function sub() {
     const inputElement1 = document.getElementById('num1');
     const inputElement2 = document.getElementById('num2');
 
@@ -20,7 +20,14 @@ function add() {
 
     const resultElement = document.getElementById('result');
     resultElement.innerText = `Result :${sub}`;
-   }
+}
+
+
+// Function fir Multiplication of two Numbers
+function multi() {
+    const inputElement1 = document.getElementById('num1');
+    const inputElement2 = document.getElementById('num2');
+}
 
 // Function for Clearing the Input Boxes
 
