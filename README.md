@@ -16,3 +16,9 @@ The Calculation Device is a simple and efficient tool designed to perform basic 
 - HTML: For the structure of the web application.
 - CSS: For styling and layout of the interface.
 - JavaScript: To handle the calculation logic and user input.
+
+## How to Use
+
+1. Enter two numbers in the input fields.
+2. Choose the desired operation (Addition, Subtraction, Multiplication).
+3. The result will be displayed instantly below the input fields.
